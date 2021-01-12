@@ -9,9 +9,8 @@ ___Organisation of "GSON chimie informatique sous python" lessons :___
 - Introduction
 
   - Slides 1_GSON_intro (40 min) PYL
-  - Slides 2_introduction_informatique (20 min) GP
-  - Talktorial Introductif 1 Intro Python, jupyter (1h30)  GP
-  - Talktorial Introductif 2 Intro chemoinfo - RDKit (2h) GP
+  - Slides 2_introduction_informatique + Talktorial Introductif 1 Intro Python, jupyter (1h20 min)  GP
+  - Talktorial Introductif 2 Intro chemoinfo - RDKit (1h30) GP
 
 **Mardi 12 janvier 10h-12h 13h30-15h30**
 
