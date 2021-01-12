@@ -257,10 +257,6 @@ question-11:
       type: CodeOption
       correct: true
     - text: |
-        df_meds=pd.DataFrame
-        df_meds['ID'] = ['Aspirin', 'Paracetamol', 'Ibuprofen']
-      type: CodeOption
-    - text: |
         df_meds=pd.DataFrame()
         df_meds['Mol_Name'] = ['Aspirin', 'Paracetamol', 'Ibuprofen']
       type: CodeOption
